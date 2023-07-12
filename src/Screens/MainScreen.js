@@ -6,7 +6,6 @@ import TopTabbar from '../AppNavigation/TopTabbar'
 const MainScreen = () => {
   return (
     <View>
-        
         <Header/>
         <TopTabbar/>
     </View>
